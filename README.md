@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lb_artworks
 - 👀 I’m interested in photography, generative art, NFTs and visualization tools ... among many other things
-- 🛠️ I’m currently working on VGal
-- 💞️ I’m looking to collaborate with the community in VGal
+- 🛠️ I’m currently working on OpenVGal
+- 💞️ I’m looking to collaborate with the community in OpenVGal
 - 📫 How to reach me @lb_artworks in twitter
 
 <!---
